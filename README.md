@@ -1,5 +1,8 @@
 # Tailwind CSS Portfolio Website 💼
 
+![License](https://img.shields.io/badge/license-not%20specified-red?style=flat&logoColor=lightgrey)
+
+
 This is a portfolio website template built using Tailwind CSS. It's designed to showcase your skills, projects, and achievements in a clean and professional manner. Whether you're a developer, designer, or any other creative professional, this portfolio website will help you create an impressive online presence.
 
 ## Live Preview 🌐
