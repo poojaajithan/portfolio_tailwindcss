@@ -14,6 +14,7 @@ You can view a live preview of this portfolio website template by visiting [http
 **Adaptable Design:** The website boasts an adaptable design that effortlessly accommodates varying screen dimensions. This ensures a superior user experience across desktops, tablets, and mobile devices.
   
 **Flexibility at Your Fingertips:** The codebase utilizes HTML and TailwindCSS, facilitating effortless customization of layout, color schemes, and content to perfectly align with your unique brand.
+
 **Contemporary Simplicity:** The design adheres to a modern, minimalist aesthetic, allowing your content to shine unencumbered by distractions.
 
 **Structured for Clarity:** Organized into distinct sections such as About, Projects, and Testimonials, the website's architecture lends itself to efficient content organization.
