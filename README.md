@@ -11,7 +11,7 @@ You can view a live preview of this portfolio website template by visiting [http
 
 ## Features 💡
 
-**Adaptable Design:** The website boasts an adaptable design that effortlessly accommodates varying screen dimensions. This ensures a superior user experience across desktops, tablets, and mobile devices.
+**Adaptable Design:** The website boasts an adaptable design that effortlessly accommodates varying screen dimensions. 
   
 **Flexibility at Your Fingertips:** The codebase utilizes HTML and TailwindCSS, facilitating effortless customization of layout, color schemes, and content to perfectly align with your unique brand.
 
@@ -21,49 +21,6 @@ You can view a live preview of this portfolio website template by visiting [http
 
 **Powered by Tailwind CSS:** The website leverages Tailwind CSS, a utility-focused CSS framework that accelerates development through its array of pre-built components and utilities.
 
-## Getting Started 🏁
-
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes:
-
-1. **Clone the repository**:
-
-```bash
-git clone https://github.com/poojaajithan/portfolio_tailwindcss.git
-```
-
-2. **Navigate to the project folder**:
-
-```bash
-cd portfolio-tailwindcss
-```
-
-3. **Install the dependencies**:
-
-```bash
-npm install
-```
-
-4. **Build the CSS**:
-
-```bash
-npm run build
-```
-
-5. **Open the website**:
-
-- If you're using a local development server, open the website in your browser at `http://localhost:3000`.
-- If you're using a static server, copy the contents of the `dist` folder to your server and open the website in your browser.
-
-6. **Customize the content**:
-
-- Open the `index.html` file in your favorite code editor.
-- Modify the content, colors, and layout as per your requirements.
-- Add your own projects, skills, and information to showcase your work.
-
-7. **Deploy your website**:
-
-- If you're using a static server, upload the contents of the `dist` folder to your hosting provider.
-- If you're using a different deployment method, follow the appropriate steps to deploy your website.
 
 ## Contributing 🧑‍🤝‍🧑
 
